@@ -3,6 +3,9 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
+      - ./scripts/index.ts
+  schedule:
+    - cron: 0 0 * * *
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -13,3 +16,9 @@ jobs:
           deno-version: v1.x
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://plataforma.chileconvencion.cl/m/iniciativa_popular/
+          downloaded_filename: index.html
+          postprocess: ./scripts/index.ts
