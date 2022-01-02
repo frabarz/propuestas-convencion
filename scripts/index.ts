@@ -1,8 +1,10 @@
 import { cheerio, TagElement } from "https://deno.land/x/cheerio@1.0.4/mod.ts";
 
 const filename = Deno.args[0];
-const html = await Deno.readTextFile(filename);
+const buffer = await Deno.readFile(filename);
+const decoder = new TextDecoder("iso-8859-1");
 
+const html = decoder.decode(buffer);
 const $ = cheerio.load(html);
 const cards = $(".card.iniciativa");
 
@@ -35,12 +37,11 @@ await Deno.writeTextFile(
 );
 
 // Fetch the detailed page contents and save them in the `propuestas/` folder
-await Deno.mkdir("propuestas", {recursive: true});
+await Deno.mkdir("propuestas", { recursive: true });
 await Promise.all(
   proposals.map(async (proposal) => {
     const response = await fetch(proposal.href);
     const buffer = await response.arrayBuffer();
-    const decoder = new TextDecoder('iso-8859-1');
     const html = decoder.decode(buffer);
 
     const $ = cheerio.load(html, { decodeEntities: false });
@@ -55,7 +56,7 @@ await Promise.all(
 
     await Deno.writeTextFile(
       "./propuestas/" + proposal.id + ".json",
-      JSON.stringify({...proposal, topic, outline}, null, 2),
+      JSON.stringify({ ...proposal, topic, outline }, null, 2),
     );
   }),
 );
