@@ -35,6 +35,7 @@ await Deno.writeTextFile(
 );
 
 // Fetch the detailed page contents and save them in the `propuestas/` folder
+await Deno.mkdir("propuestas", {recursive: true});
 await Promise.all(
   proposals.map(async (proposal) => {
     const response = await fetch(proposal.href);
@@ -53,7 +54,7 @@ await Promise.all(
     });
 
     await Deno.writeTextFile(
-      "propuestas/" + proposal.id + ".json",
+      "./propuestas/" + proposal.id + ".json",
       JSON.stringify({...proposal, topic, outline}, null, 2),
     );
   }),
