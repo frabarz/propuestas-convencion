@@ -1,0 +1,34 @@
+{
+  "title": "Sistema de Voto �nico Transferible (VUT) en reemplazo de Mayor�a Simple para elecci�n de cargos de representaci�n popular.",
+  "href": "https://plataforma.chileconvencion.cl/m/iniciativa_popular/detalle?id=2102",
+  "supporters": 32,
+  "id": 2102,
+  "category": "gobierno",
+  "topic": "Sistema electoral y organizaciones políticas",
+  "outline": [
+    [
+      "Problema a Solucionar:",
+      "El problema que se da en Chile es que el sistema electoral no parece representar a los votantes.\nEsta propuesta busca modernizar el sistema electoral implementando una metodología moderna de votación diseñada para maximizar la conformidad de los electores con los representantes electos."
+    ],
+    [
+      "Situación Ideal:",
+      "La solución sería la implementación de un sistema de Voto Único Transferible (VUT)\nVer video para una introducción rápida https://www.youtube.com/watch?v=l8XOZJkozfI&ab_channel=CGPGrey\n\nEste sistema propone que los ciudadanos asignan preferencias a los candidatos que eligen (este es mi candidato preferencia 1, este es mi candidato 2, etc...)\nSegún el número de candidatos a elegir se calcula el umbral, por ejemplo, con el umbral de Droop\nLuego se suman los resultados de primeras preferencias para cada candidato.\nLuego de esto hay 2 opciones:\n1) hay candidatos que pasan el umbral\n  Los que pasan el umbral son electos.\n  Los votos sobre el umbral son traspasados a la preferencia siguiente (hay más de un criterio posible para esto).\n2) ningún candidato pasa el umbral\n  Se elimina al candidato con menos primeras preferencias y sus votos se pasan a la segunda preferencia de esos votos\nEl proceso se repite hasta tener a todos los cupos seleccionados\n\nFuentes:\nhttps://www.youtube.com/watch?v=l8XOZJkozfI&ab_channel=CGPGrey\nhttps://es.wikipedia.org/wiki/Voto_%C3%BAnico_transferible"
+    ],
+    [
+      "Qué debe Contemplar la Nueva Constitución:",
+      "Esta es una propuesta de un artículo. solo hay que incluir el siguiente párrafo en la constitución.\n\nLos cargos de representación popular serán electos por votación por votación popular directa, los representantes serán elegidos según un método de Voto Único Transferible.\nEl método de umbral y transferencia de votos serán definidos por la Ley."
+    ],
+    [
+      "¿Con qué argumentos tú o tu organización respaldan esta propuesta?",
+      "Hay otras formas de hacerlo. Lo importante es diseñar un sistema que maximice la conformidad de los votantes respecto a los representantes electos.\nHoy en día se cuenta con tecnología y presupuesto para implementar de forma segura un sistema de votación más complejo que la mayoría simple. Basta Excel y votar en un sistema parecido al de la antigua PSU.\nLa mayoría simple es un método anticuado que que se presta para vicios y no expresa correctamente el sentir de los electores. Se justifica sobre todo en su simplicidad.\nEl sistema VUT reduce la utilidad del voto estratégico y permite a los votantes elegir según sus gustos y preferencias.\nEl sistema VUT reduce la polarización al dar chance a que si no gana la primera preferencia de un votante, si pueda salir su segunda preferencia."
+    ],
+    [
+      "Propuesta de articulado",
+      "Los cargos de representación popular serán electos por votación por votación popular directa, los representantes serán elegidos según un método de Voto Único Transferible.\nEl método de umbral y transferencia de votos serán definidos por la Ley."
+    ],
+    [
+      "Breve reseña sobre quién o quiénes proponen y la historia de la elaboración de la iniciativa",
+      "Esta propuesta nace de la observación, siempre he sentido que las reacciones del el sistema actual de votación divide a las personas en vencedores celebrando y vencidos ofuscados.\nMi padre, varios tíos, y muchos de sus amigos  siempre ha estrategizado sus votos. Recuerdo desde muy chico haber escuchado lo siguiente:\n\"Por quién vas a votar? \"\n\"Pero cómo vas a votar por ese, si no va a ganar! \"\n\"Tu tienes que votar por este de acá \"\nEn general, noté que no se vota por el mejor candidato, sino por el que le hará frente al candidato opositor, y tus ideas no serán representadas. \n\nEn la universidad, en contexto de elecciones conversé esto con mis compañeros, y supe que varios habían pasado por lo mismo y pensaban de forma similar.\nUn amigo un tiempo después dio con este sistema y me lo mostró. Personalmente me dio vuelta la cabeza y desde entonces que vengo pensando que sería ideal tener un sistema de votación moderno."
+    ]
+  ]
+}

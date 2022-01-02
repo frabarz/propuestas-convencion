@@ -1,0 +1,34 @@
+{
+  "title": "Sistema Electoral",
+  "href": "https://plataforma.chileconvencion.cl/m/iniciativa_popular/detalle?id=7090",
+  "supporters": 95,
+  "id": 7090,
+  "category": "gobierno",
+  "topic": "Sistema electoral y organizaciones políticas",
+  "outline": [
+    [
+      "Problema a Solucionar:",
+      "El sistema electoral actual (D'Hondt) ha demostrado en contadas ocasiones ser ineficaz en términos de representatividad de la ciudadanía. Al basarse en un sistema de arrastre, establece un sistema de campaña política basada en un par de candidatos fuertes que logren la cantidad de votos suficientes para poder distribuir el resto de votos (escaños) entre el resto de candidatos de cada coalición política. Esto ha sido parte fundamental en la crisis de identidad con el Congreso chileno, siendo una institución en la cual ambas cámaras carecen de representatividad respecto de la gente, básicamente por salir electa gente por la que nadie votó o hubiera votado. Sumado a la crisis de identidad, hay una clara rabia colectiva respecto de los candidatos electos, mostrándose elección tras elección que nuevos diputados y senadores que claramente no son los adecuados para el cargo, y que, sin importar que a nivel popular se sepa su falta de idoneidad, igualmente saldrán electos por arrastre. A todo lo anterior se suma un sentir generalizado de que no hay nada que se pueda hacer para mejorar el nivel político de Chile: ¿Para qué ir a votar, si igual van a salir electos por arrastre candidatos peores y con menos votos?¿Cómo no tener rabia, si elección tras elección aparecen más candidatos inadecuados, sumados a listas a cambio de que voten en adelante lo que diga la lista que lo puso en el Congreso por arrastre?"
+    ],
+    [
+      "Situación Ideal:",
+      "Representatividad plena, salen electos los diputados y senadores que obtuvieron las mayorías. Pueden ser de cualquier partido, pueden haber hecho la campaña que sea, pero sólo van a formar parte del Congreso los que hayan obtenido la mayor cantidad de votos.\nHay una posibilidad de identificarse con la institución, porque salen electos los que elige la gente. Hay responsabilidad de los electores, porque su voto cuenta directamente para la mayoría que obtenga cada candidato. Hay un enfoque mayor en el derecho y deber de informarse y votar, porque hay un efecto directo en haber votado responsablemente. Hay un mayor control sobre los diputados y senadores, porque al término del período individual, deberán obtener nuevamente una de las mayorías, siendo difícil lograrla si lo ha hecho mal en su período."
+    ],
+    [
+      "Qué debe Contemplar la Nueva Constitución:",
+      "El término del sistema electoral actual, la implementación de un sistema electoral de representatividad completa, cada persona tiene un voto para cada cargo, y los candidatos con más votos (individuales) salen electos."
+    ],
+    [
+      "¿Con qué argumentos tú o tu organización respaldan esta propuesta?",
+      "Mirando la crisis institucional y de identificación actual, no es posible plantear un sistema por escaños. El sistema D'Hondt supuestamente asegura mayores niveles de equidad, pero es a cambio de ignorar en gran parte la elección hecha por las personas. La equidad es un punto que se ha visto necesario sostener, pero el sistema de control debe ir directo a los partidos o coaliciones que se armen para cada elección (activando voces de alarma en caso de que como partidos se les dé mas visibilidad, se les asigne más dinero, etc. a hombres que a mujeres, o viceversa), y no con un sistema que se ha utilizado en gran medida para (cumpliendo con los niveles de equidad) meter a una serie de candidatos sin valor o inidóneos, que van a votar siempre por lo que les diga la lista que los eligió.\nSi se usa un sistema absolutamente partidista, por otro lado, la posibilidad de controlar la equidad dentro de las cámaras disminuye, ya que la gente votaría por cada partido, y los partidos elegirían a los electos en base a la cantidad de votos que obtuvieran. A lo anterior se suma que se pierde la gradualidad en los candidatos (ya que los partidos elegirían a los electos qué más extremos sean y representen al partido, para asegurar el voto en bloque del partido, y no van a elegir personas moderadas).\nPor último, el sistema de representatividad absoluta es el único que se hace cargo de la realidad actual respecto de las candidaturas independientes. Ninguno de los sistemas anteriores presenta posibilidades de cambio o la aparición de candidatos que, siendo idóneos para el cargo, no se identifican con algún partido, por lo que no cuentan con el apoyo (financiero, de visibilidad, y de arrastre) para salir electos, a pesar de verse cómo, elección tras elección, ese tipo de candidatos va obteniendo un mayor número de votos."
+    ],
+    [
+      "Propuesta de articulado",
+      "ARTÍCULO 46\nLa Cámara de Diputados y el Senado estarán integrados por miembros elegidos en votación directa en base al principio de representatividad absoluta y de primeras mayorías. La ley orgánica constitucional respectiva determinará el número de diputados y senadores, los distritos electorales y circunscripciones senatoriales, y la forma de votación, en respeto de la representatividad absoluta."
+    ],
+    [
+      "Breve reseña sobre quién o quiénes proponen y la historia de la elaboración de la iniciativa",
+      "La propuesta se hace tratando de encontrar una solución a la crisis institucional y de identificación de la gente con respecto a los electos en base al sistema electoral actual. Se hace en base a una observación de los últimos años de elecciones, en conjunto con la constante disminución de la confianza pública en la institucionalidad chilena."
+    ]
+  ]
+}
