@@ -1,0 +1,34 @@
+{
+  "title": "Sistema de votación Electrónico",
+  "href": "https://plataforma.chileconvencion.cl/m/iniciativa_popular/detalle?id=17386",
+  "supporters": 3,
+  "id": 17386,
+  "category": "gobierno",
+  "topic": "Sistema electoral y organizaciones políticas",
+  "outline": [
+    [
+      "Problema a Solucionar:",
+      "El problema es el sistema de votación actual, muchos lo glorifican como que es muy bueno, pero no necesitamos un sistema bueno, necesitamos uno excelente. Los principales problemas del sistema actual son:\n1.  Filas de espera para poder votar lo cual desincentiva el ir a hacerlo.\n2.  Falta de transporte para ir a los locales de votación\n3. El error humano siempre está, sobre todo cuando hay votaciones de muchos cargos, los vocales de mesa lo único que quieren es irse y por lo tanto si no les cuadran las cosas las dejan así para no tener que volver a contar.\n4. BAJA PARTICIPACION, bajo el modelo de votación voluntaria.\n5. Personas sin poder votar cuando hay mucho trafico de votantes.\n6. Personas sin poder votar por que sus trabajos no se los permiten."
+    ],
+    [
+      "Situación Ideal:",
+      "0. Lo primero es habilitar un periodo para registrarse como votantes en el sistema electrónico, aquí deberán obtener datos del rostro y voz de la persona (para evitar que alguien se haga pasar por ellos al votar)\n1. Tener una pagina web para votar\n2. Para ingresar como votante la persona debe exponerse a la cámara para su reconocimiento facial y para el reconocimiento de voz se debe leer un texto random para que no todos tengan que leer lo mismo.\n3. La persona tiene que si o si leer un texto similar a \"Estoy de acuerdo a participar de las votaciones electrónicas para presidente 2026\" (para que la persona sepa que lo que está haciendo es un proceso de votación y que sus parientes no le hagan hablar sin enterarse de lo que está pasando).\n4. La persona elige por quien o quienes desea votar.\n5. Se le informa que su voto fue correctamente emitido por el candidato X\n\nLo anterior son para una votación electrónica desde cualquier parte a través de un dispositivo. A continuación se describe lo ideal para las votaciones en un local presencial.\n\n1. Cada sala de votación debe contar con tótems similares a los que hay en los bancos.\n2. La persona le entrega al vocal de mesa su carnet.\n3. El vocal de mesa verifica que el carnet le corresponda.\n4. El vocal de mesa habilita el tótem para poder votar.\n5. La persona vota.\n6. El tótem le da un comprobante con el voto emitido."
+    ],
+    [
+      "Qué debe Contemplar la Nueva Constitución:",
+      "El estado debe otorgar a todas las personas habilitadas para votar, un sistema electrónico por el cual pueda votar desde cualquier parte sin la necesidad de ir a un local de votación (contemplando todas las medidas de seguridad necesarias para evitar fraudes). También, pensando en la gente que no tiene acceso a dispositivos electrónicos e internet, el estado debe habilitar los locales de votación para quienes quieran ir a realizarlo de forma presencial."
+    ],
+    [
+      "¿Con qué argumentos tú o tu organización respaldan esta propuesta?",
+      "Existen las tecnologías suficientes y hechas por empresas gigantescas que respaldan la efectivad.\n\nReconocimiento facial: https://azure.microsoft.com/es-mx/services/cognitive-services/face/\nReconocimiento de voz: https://azure.microsoft.com/es-mx/services/cognitive-services/speaker-recognition/#overview\n\nAdemás esta misma empresa (Microsoft), provee servicios para hacer que las paginas no se caigan por el alto flujo de personas que estén votando, por lo que el sistema no se caería. https://azure.microsoft.com/es-es/services/app-service/"
+    ],
+    [
+      "Propuesta de articulado",
+      "El sistema electoral debe ser electrónico, las personas deben poder votar a través de sus dispositivos personales o asistir a locales de votación donde se habilitarán dispositivos electrónicos para su votación."
+    ],
+    [
+      "Breve reseña sobre quién o quiénes proponen y la historia de la elaboración de la iniciativa",
+      "Soy desarrollador de aplicaciones. He trabajado ya a través de empresas consultoras para el sector de la salud, financiera y telecomunicaciones. En estos trabajos me he dado cuenta que los software del sistema publico son realmente ineficientes y obsoletos y por lo mismo les tienen tanto temor, sin embargo teniendo experiencia en el rubro, sé que se pueden realizar cambios maravillosos con la tecnología para hacer que la vida de las personas sea mucho mejor. Tras las ultimas elecciones se dejaron ver muchas deficiencias en cuanto a los transportes, personas que no pudieron votar, inmensas filas con un calor horrible, MESAS DESCUADRADAS, entre otros. Por esto mismo decidí pensar en esta propuesta que busca mejorar la participación y hacer del proceso algo mucho mas simple y expedito."
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Acceso a datos del estado de forma estructurada (API's) y protección de la información personal y digital.",
+  "href": "https://plataforma.chileconvencion.cl/m/iniciativa_popular/detalle?id=19246",
+  "supporters": 0,
+  "id": 19246,
+  "category": "conocimiento",
+  "topic": "Derecho a la libertad de investigación",
+  "outline": [
+    [
+      "Problema a Solucionar:",
+      "Falta de acceso a repositorios de información vía API's, para investigación y aplicación tecnológica."
+    ],
+    [
+      "Situación Ideal:",
+      "Que toda la información pública, exceptuando la información de carácter personal, esté disponible a través de API's para realizar estudios en ciencia de datos y aplicaciones que vayan en beneficio de la ciudadanía"
+    ],
+    [
+      "Qué debe Contemplar la Nueva Constitución:",
+      "Libertad de acceso a la información, al conocimiento por medio de reportes de datos estructurados en API's salvaguardando la información personal."
+    ],
+    [
+      "¿Con qué argumentos tú o tu organización respaldan esta propuesta?",
+      "Soy estudiante de tecnologías como la IA, ha requerido acceso a datos como patentes de vehículos con encargos por robo en un sistema de reconocimiento de patentes que trabajo, que alerte en tiempo real si una patente presenta encargo por robo, para encontrar rápidamente los vehículos robados con su ubicación y alertar a las autoridades, pero esos reportes no están disponibles y las instituciones publicas no responden a esas solicitudes. \nAdemás, en otras áreas he tenido que solicitar vía transparencia reportes y datos lo cual tarda mucho tiempo, todo sería más fácil si existiera un portal de datos públicos más completo y detallado que tuviera registro para saber quien está consumiendo datos. El portal debe ofrecer acceso a toda información pública por ejemplo, las compras del estado, de forma estructurada y con ejemplos de consumo de datos en lenguajes de programación como Python o R. vía API, esto permitiría desarrollar un sistema en Machine Learning que detecte más rápidamente corrupción cuando exista sobreprecio en una compra pública."
+    ],
+    [
+      "Propuesta de articulado",
+      "Libertad de acceso a información del estado acorde a los estándares tecnológicos actuales salvaguardando la información personal individual\n\nEl estado garantizará el acceso a la información pública de forma estructurada tecnológicamente, salvaguardando siempre el derecho a la privacidad individual y protegiendo los datos personales de los ciudadanos, facilitando la fiscalización pública."
+    ],
+    [
+      "Breve reseña sobre quién o quiénes proponen y la historia de la elaboración de la iniciativa",
+      "Soy ingeniero en informática, autodidacta y eterno estudiante. He tratado de hacer estudios estadísticos y de correlaciones  en materias colectivas, pero me he encontrado con la problemática de el acceso a datos de forma estructurada, el ministerio de ciencias actualmente no entrega toda la data pública. Toda institución del estado debería garantizar el acceso a datos vía API's"
+    ]
+  ]
+}
