@@ -31,12 +31,16 @@ const proposals: Proposal[] = Array.from(cards, (card) => {
     category,
   };
 });
+
 proposals.sort((a, b) => a.id - b.id);
+const sortedCategories = Object.fromEntries(
+  Object.entries(categories).sort((a, b) => "".localeCompare.call(a[1], b[1]))
+);
 
 await Deno.writeTextFile("index.json", JSON.stringify(proposals, null, 2));
 await Deno.writeTextFile(
   "categories.json",
-  JSON.stringify(categories, null, 2),
+  JSON.stringify(sortedCategories, null, 2),
 );
 
 // Fetch the detailed page contents and save them in the `propuestas/` folder
