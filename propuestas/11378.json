@@ -1,0 +1,34 @@
+{
+  "title": "Uso del Software Libre en organismos públicos del estado de Chile",
+  "href": "https://plataforma.chileconvencion.cl/m/iniciativa_popular/o/11378",
+  "supporters": 34,
+  "id": 11378,
+  "category": "conocimiento",
+  "topic": "Institucionalidad, gasto fiscal y políticas públicas en Cultura, Artes, Humanidades, Ciencia y Tecnología",
+  "outline": [
+    [
+      "Problema a Solucionar:",
+      "En el presupuesto 2021 de Chile, el subtítulo 29 suma un total de 251.038 M$ aproximadamente 300 millones de dólares, el ítem más importante de este subtítulo es el ítem 7 que corresponde a la compra de licencias de software cuyo presupuesto alcanza los 177.358 M$ o aproximadamente 211 millones.\n\nLa compra de licencias no es realmente la compra de un bien o servicio propiamente tal sino que representa el permiso (licencia) de usar un software. La gran mayoría de estos egresos van a compañías extranjeras con un contenido muy pequeño de estos montos quedándose en el país.\nA propósito del enorme volumen de gasto que representa la compra de software, la contratación pública es un pilar fundamental enla gobernanza estratégica y de la prestación de servicios. “Una contratación pública bien gestionada puede ydebe desempeñar un papel de primer orden en el fomento de la eficiencia del sector público y comoelemento que inspira confianza en los ciudadanos.” (OCDE, 2015)\n\nEl problema fundamental es que la compra de software no esta tan bien gestionada como podría y buena parte del presupuesto del subcapítulo 29 ítem 2 se podría ahorrar"
+    ],
+    [
+      "Situación Ideal:",
+      "Existe un gran número de soluciones de software que se clasifican como software libre los cuales ademas de poder ser usadas son costo de licenciamiento, proveen 4 libertades fundamentales:\n\nLibertad 0: Poder usar el programa con cualquier propósito.\nLibertad 1: Poder estudiar cómo funciona el programa y poder modificarlo.\nLibertad 2: Poder distribuir copias del programa.\nLibertad 3: Poder mejorar el programa y poder compartir dichas mejoras para beneficio de todos.\n\nTanto el hecho que estos software se pueden usar sin costo y proveen las libertades mencionadas tienen una gran ventaja para las instituciones públicas.\nSolamente en aquellos casos que no exista una solución de software libre para un uso particular se debiera permitir la compra de licencias de software propietario."
+    ],
+    [
+      "Qué debe Contemplar la Nueva Constitución:",
+      "La constitución debe establecer un principio de favorabilidad que establezca que los organismos del estado que requieran el uso de software deben, en forma primaria, usar soluciones de software libre y solo en el caso que no exista un software libre adecuado para sus necesidades, pueda considerar la compra de licencias de software propietario.\n\nPara lograr esta favorabilidad basta que la constitución defina que para las compras de licencias de software, la compra debe cumplir como mínimo las 4 libertades del software libre listadas anteriormente."
+    ],
+    [
+      "¿Con qué argumentos tú o tu organización respaldan esta propuesta?",
+      "La norma constitucional que se propone claramente tiene un alto valor de retorno en los gastos del estado que va en línea con las recomendaciones al respecto hechas por la OCDE.\n\nSe propone que sea una norma constitucional porque ya anteriormente se han intentado proyectos de ley que el lobby de empresas extranjeras de software ha bloqueado su avance en el congreso nacional (Proyecto de acuerdo, Mirosevic 2014).\n\nEntre los argumentos dados por el lobby de empresas extranjeras de software ha sido que cualquier tipo de preferencia de organismos del estado en el uso de software es inconstitucional porque viola el principio de igualdad ante la ley.\n\nEl uso de software libre por parte de instituciones del estado, tiene adicionalmente el efecto que al interactuar con el ciudadano no le va a imponer el uso de software propietario que tiene un costo de entrada, es decir tiene un beneficio sustancial para la ciudadanía"
+    ],
+    [
+      "Propuesta de articulado",
+      "Derechos del\nlicenciatario. Todo contrato de licencia de software en que las entidades\npúblicas del estado de Chile sean parte licenciataria otorgará los siguientes\nderechos, sin que para ello se requiera autorización del titular de los\nderechos de autor:\na) reproducir total o\nparcialmente el software por cualquier medio y bajo cualquier forma, ya sea\npermanente o transitoria, traducirlo, adaptarlo, arreglarlo y producir\ncualquier otra transformación cuando dichos actos sean necesarios para la\nutilización del mismo por parte del adquirente legítimo con arreglo a su\nfinalidad, incluida la corrección de errores. También realizar copias de\nsalvaguarda del software en número razonable, consistente con las políticas de\nseguridad de la entidad licenciataria;\nb) observar, estudiar o\nverificar su funcionamiento con el fin de determinar las ideas y principios\nimplícitos en cualquier elemento del programa, siempre que lo haga durante\ncualquiera de las operaciones de carga, visualización, ejecución, transmisión o\nalmacenamiento del mismo;\nc) reproducir el código y\ntraducir su forma, cuando ello sea indispensable para obtener la información\nnecesaria que permita la interoperabilidad de un programa creado de forma\nindependiente con otros, siempre que se cumplan los siguientes requisitos:\nc.1) que tales actos sean\nrealizados por el licenciatario, por una persona debidamente autorizada en su\nnombre o por cualquier otra facultada para utilizar una copia del programa;\nc.2) que la información\nnecesaria para conseguir la interoperabilidad no haya sido puesta previamente,\nde manera fácil y rápida, a disposición de las personas a las que se hace\nreferencia en el apartado c.1; y,\nc.3) que dichos actos se\nlimiten estrictamente a aquellas partes del programa original que resulten\nnecesarias para conseguir la interoperabilidad;\nd) ceder totalmente los\nderechos sobre el software a cualquier otra entidad pública del estado de Chile, o entidades sin fines de lucro. Es nula cualquier disposición\ncontractual en contrario.\ne) Interoperabilidad. En todos los casos se debe garantizar la accesibilidad de\nlos archivos y bases de datos involucrados independientemente del sistema\nutilizado, los que de ningún modo pueden estar sujetos a la utilización\nexclusiva de determinado software para su consulta o procesamiento."
+    ],
+    [
+      "Breve reseña sobre quién o quiénes proponen y la historia de la elaboración de la iniciativa",
+      "Ramiro Vergara Rodriguez\nIngeniero electrico MSEE de la universidad de Louisville, becado con la beca J. William Fulbright.\nDirector fundador del Proyecto de Software libre ADempiere ad honorem\nColumnista del diario El Dinamo desde 2010- 2014 con foco en el software libre\nBlog de columnas pueden ser consultadas en tiabierta.blogspot.com"
+    ]
+  ]
+}
