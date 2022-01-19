@@ -5,7 +5,7 @@ on:
       - .github/workflows/flat.yml
       - ./scripts/index.ts
   schedule:
-    - cron: 0 */6 * * *
+    - cron: 0 */1 * * *
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -20,5 +20,5 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://plataforma.chileconvencion.cl/m/iniciativa_popular/
-          downloaded_filename: index.html
+          downloaded_filename: props.html
           postprocess: ./scripts/index.ts
